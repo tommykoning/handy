@@ -3,8 +3,21 @@ body {
 	font-family : Tahoma;
 	font-size : 14px;
 	background-color : black;
-	/* toe te voegen */
+	/* toe te voegen */ 
 }
+
+header {  
+	background-image: url(bar1.png);}
+
+header:hover, .top:hover {  
+	background-image: url(bar2.png);
+	color: black}
+
+.top {  
+	color: gray;
+	text-decoration: none;
+	padding: 0px 30px}
+
 .all {
 	text-align : left;
 	width : 700px;
