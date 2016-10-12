@@ -67,9 +67,8 @@ li {
 	color: black; 
 	position: absolute;
 	width: 200px; 
-	left: 30px;
-	bottom: 30px;
-	}
+	left: 0px;
+	top: 18px;}
 
 #humanfactor:hover #cont { 
 	visibility: visible;
