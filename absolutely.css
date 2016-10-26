@@ -24,6 +24,8 @@ header:hover {
 
 #toolbox {  
 	position: relative;
+	bottom: 80px;
+	right: 150px;
     display: inline-block; }
 
 ul {
@@ -51,18 +53,42 @@ li {
 
 #title { 
  	position: relative;
- 	bottom: 172}
+ 	bottom: 172px}
+
+#hammer { 
+	position: relative;
+	bottom: 90px;
+	left: 13px;}
+
+#hammer:hover { 
+	left: 15px;
+	bottom: 85px; }
 
 #saw { 
 	position: relative;
-top: 45px; 
-right: 355px;}
+	top: 45px; 
+	right: 355px;}
+
+#saw:hover { 
+	top: 57px;
+	right: 348px; }
 
 #pincers { 
-	position: relative;}
+	position: relative;
+	left: 580px;}
+
+#pincers:hover { 
+	top: 7px; 
+	left: 587px }
 
 #screwdriver { 
-	position: relative;}
+	position: relative;
+	left: 348px;
+	bottom: 141px;}
+
+#screwdriver:hover { 
+	left: 355px; 
+	bottom: 134px; }
 
 #humanfactor { 
 	position: relative;
